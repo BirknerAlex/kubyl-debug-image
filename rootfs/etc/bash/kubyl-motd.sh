@@ -1,0 +1,1 @@
+../profile.d/kubyl-motd.sh
